@@ -21,8 +21,8 @@ Next, activate the virtual environment:
 
 ``source .venv/bin/activate``
 
-Finally, install the required packages:
+Install the required packages:
 
 ``pip install -r requirements.txt``
 
-##
+Finally, select the newly created virtual environment as kernel for any of the jupyter notebooks.
